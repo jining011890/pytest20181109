@@ -10,10 +10,10 @@
 # print('go to left.')
 #     }
 
-mood = True  # bool
- if mood:
-     print('go to left.')
-
+#mood = True  # bool
+# if mood:
+ #    print('go to left.')
+#
 #
 # mood = False
 # if mood:
